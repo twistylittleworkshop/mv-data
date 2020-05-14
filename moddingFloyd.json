@@ -3,6 +3,10 @@
 		{
 			"title": "Foo",
 			"author": "Bar"
+		},
+		{
+			"title": "Blim",
+			"author": "Blam"
 		}
 	]
 }
